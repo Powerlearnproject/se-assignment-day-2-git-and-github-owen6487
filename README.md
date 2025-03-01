@@ -10,6 +10,7 @@ Version control helps maintain project integrity by enabling:
     Reverting to previous versions: Mistakes can be undone without losing important data.
     Branching and merging: Multiple people can work on different features or bug fixes simultaneously without interfering with each other’s work.
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+login to github:the user should login to his github account.
 create account in github
 Create a New Repository: Click on the new button on your GitHub dashboard.
 Repository Details: Choose a name for your repository, add a description, and decide whether the repository will be public or private.
